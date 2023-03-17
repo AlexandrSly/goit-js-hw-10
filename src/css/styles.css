@@ -31,7 +31,7 @@ input {
   max-width: 200px;
 }
 
-ul {
+.country-list {
   margin-top: 20px;
   width: 100%;
   max-width: 500px;
